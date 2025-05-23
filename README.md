@@ -3,7 +3,7 @@
 ### 1.1. Nombre del equipo.
 El nombre de nuestro equipo es una combinación de los nombres de los integrantes del mismo, ya que el objetivo era obtener uno que nos representara y que reflejara nuestra identidad, y la mejor manera era formando una palabra única uniendo lo que más se relaciona a nosotros, que son nuestros nombres, los cuales hemos llevado con nostros desde el primer día que llegamos al mundo; dicha palabra es "*HitEm*"; pero adicional a esto, quisimos agregarle una palabra que estuviese involucrada con las actividades que desempeñamos en róbotica, así que por supuesto seleccionamos "*Tecnología*", debido a que engloba todas las funciones ejercidas en la misma y también porque representa el futuro hacia el cual nos dirijimos, sin embargo, optamos por emplear la palabra en inglés para que el nombre no fuera tan largo y difícil de memorizar; es por todas estas razones que el nombre de nuestro equipo es "**HitEm Tech**".
 ### 1.2. Presentación de los integrantes.
-<ins>Emmanuel Azuaje: 
+<ins>Emmanuel Azuaje: estudiante de Ingeniería en Informática en la Universidad Rafael Belloso Chacín (URBE), incursuina por primera en la robótica este año al unirse al equipo 
 <ins>Hiklif Ortega:
 <ins>Emelyn Sulbarán:
 ### 1.3. Distribución de las funciones (Cargos personales).
