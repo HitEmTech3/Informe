@@ -6,7 +6,7 @@
 ## 2. Fotos del equipo:
 ### 2.1 Foto Oficial del equipo.
 ### 2.2 Fotos trabajando.
-### 2.3 Ftos locas.
+### 2.3 Fotos locas.
 ## 3. Descripción del robot:
 ### 3.1. Surgimiento de la idea del robot.
 ### 3.2. Breve reseña sobre la mécanica del robot.
