@@ -11,6 +11,7 @@
 ### 3.1. Surgimiento de la idea del robot.
 ### 3.2. Breve reseña sobre la mécanica del robot.
 ### 3.3. Explicación acerca de la electrónica del robot.
+### 3.4. Diagrama de la electrónica del robot.
 ## 4. Fotos del robot.
 ## 5. Vídeos del robot:
 ### 5.1. Desafío Abierto.
