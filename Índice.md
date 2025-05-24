@@ -1,5 +1,5 @@
 # Índice
-## 1. Descripción del equipo:
+## 1. Descripción del equipo: [Ver archivo de texto](1. Descripción del equipo.md)
 ### 1.1. Nombre del equipo.
 ### 1.2. Presentación de los integrantes.
 ### 1.3. Distribución de las funciones (Cargos personales).
